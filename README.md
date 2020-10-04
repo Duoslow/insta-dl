@@ -6,7 +6,7 @@ Download photos, videos, stories & highlights, IGTV and even more from instagram
 - [Planned](#planned)
 #### TO-DO
 * [X] User login
-* [ ] Save credentials securely
+* [X] Save credentials securely
 * [ ] URL handling
 * [ ] Aria2 media downloader
 * [ ] Save media urls to json for each folder
